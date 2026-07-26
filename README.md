@@ -31,4 +31,16 @@ I created this project to increase my knowledge on PCBs in general, and this is 
 
 Here are the steps to making this.
 1. Buying the items!
-2. 
+2. Use the components on a breadboard, and use a simple program for testing to see if the components work.
+3. Solder the components onto the PCB and do the same test there.
+4. Create a final program that does everything and upload it on.
+5. Use digital caliper to make sure my measurements in CAD are correct and then print the CAD out.
+6. Final assembly and finished product.
+
+This is obviously a simplified version of the full How but yeah that gives you an idea. 
+
+# Potential Challenges
+PCBs in general are always a challenge, as you never know what could happen, and my soldering skills are not exactly great, so that could be a potential challenge. To mitigate this challenge, I plan to practice soldering before going at it on the actual PCB, and I also have 5 PCBs since they come in order of 5, so I have basically 5 attempts kind of. 
+
+# BOM
+
