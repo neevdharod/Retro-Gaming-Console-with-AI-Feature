@@ -2,9 +2,13 @@
 Retro Gaming Console that is normal, But has a button for where If you press it, you can use your voice and explain a game idea, and it will create your game and will let you play. It will also have the basic games like Flappy Bird, Tetris, etc.
 
 # CAD
+CAD link: https://cad.onshape.com/documents/80234ca0c6dbc53564995cd3/w/1bd3a773922b38dffe61e045/e/d0db60f0b216c6b611b1f2d4?renderMode=0&uiState=6a668a218ce625604a8985ed
+
+
 Cad includes an assemblty which includes all electronic components and the actual case for it.
 <img src="https://cdn.hackclub.com/019ecc9d-02e1-786a-b197-12f1cfd2ec7b/Screenshot%202026-06-15%2011.46.30%20AM.png" alt="image"/>
-<img src="https://cdn.hackclub.com/019ed96d-c2e0-70ee-99d2-e14706955e16/Screenshot%202026-06-17%2011.17.00%20PM.png" alt="image"/>
+<img width="434" height="566" alt="image" src="https://github.com/user-attachments/assets/611b310a-7bb2-44ee-808c-b4f6e7809b4b" />
+
 
 # PCB
 <img src="https://cdn.hackclub.com/019ec441-da61-76bc-aa80-ccba045c6c78/Screenshot%202026-06-13%208.46.34%20PM.png" alt="image"/>
