@@ -1,16 +1,4 @@
-/*
-  Retro AI Handheld Console - Wokwi Firmware Test
-  Board: Raspberry Pi Pico / Pico W stand-in
 
-  This firmware is for simulation/testing the console controls:
-  - 12 buttons
-  - OLED placeholder screen
-  - AI hold-to-talk behavior
-  - buzzer feedback
-
-  Final real product brain: Raspberry Pi Zero 2 W
-  This .ino is mainly for Wokwi/demo/testing.
-*/
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
@@ -22,11 +10,9 @@
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-// OLED pins for Pico W simulation
 #define OLED_SDA 0
 #define OLED_SCL 1
 
-// Button pins
 #define BTN_UP 5
 #define BTN_DOWN 6
 #define BTN_LEFT 13
