@@ -24,3 +24,11 @@ Video Simulation: https://drive.google.com/file/d/1bcLsbRWAjZI9G2lNmVKaYL5mQRzRJ
 - speaker
 - LiPo Battery
 - Cool AI button feature
+
+# Why/How
+
+I created this project to increase my knowledge on PCBs in general, and this is kind of my final summer project after a couple other projects I made through Macondo. Kind of like my final 'test' lol. This uses all the components I used, including screen, SEED studio, buttons, charging w battery, etc. I also thought in general it would be pretty cool to make.
+
+Here are the steps to making this.
+1. Buying the items!
+2. 
