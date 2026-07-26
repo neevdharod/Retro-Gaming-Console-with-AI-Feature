@@ -44,3 +44,26 @@ PCBs in general are always a challenge, as you never know what could happen, and
 
 # BOM
 
+|#  |Item                     |AliExpress link / search                            |Specs / details                                                |Total  |
+|---|-------------------------|----------------------------------------------------|---------------------------------------------------------------|-------|
+|1  |Raspberry Pi Zero 2 W    |https://www.aliexpress.us/item/1005008701910308.html|Main computer, Wi-Fi, Bluetooth, mini HDMI, 40-pin GPIO        |$24.99 |
+|2  |3.5" HDMI IPS Display    |https://aliexpress.ru/item/1005009296423819.html    |3.5 inch HDMI display, IPS, driver-free Raspberry Pi compatible|$6.30  |
+|3  |Dual 18650 Battery Shield|https://www.aliexpress.com/item/4000704300145.html  |1-way battery shield, Type-C charging, 5V/3A output            |$6.49  |
+|4  |MAX98357A I2S Amplifier  |https://www.aliexpress.us/item/3256809209823945.html|I2S digital audio amplifier module for speaker output          |$6.85  |
+|5  |INMP441 I2S Microphone   |https://www.aliexpress.us/item/1005007096865003.html|I2S MEMS microphone module for voice input                     |$3.57  |
+|6  |8Ω 1W Speaker            |https://www.aliexpress.us/item/1005006104005278.html|Small 8 ohm, 1 watt speaker for audio output                   |$1.80  |
+|7  |6×6 Tactile Switches     |https://www.aliexpress.us/item/1005009186148132.html|4-pin 6×6mm tactile switches, used for 12 buttons              |$3.33  |
+|8  |Button Caps              |6x6 tactile switch button caps                      |Plastic caps for A/B/X/Y, Start, Select, AI, Menu              |$3.25  |
+|9  |D-pad Cross Button       |Search: Gameboy dpad replacement button             |Cross-shaped D-pad cap for four tactile switches               |$2.50  |
+|10 |2×20 Female Header       |https://www.aliexpress.us/item/3256805804439042.html|2.54mm 40-pin female header for Raspberry Pi connection        |$3.40  |
+|11 |2×20 Male Header         |https://www.aliexpress.us/item/3256805804439042.html|2.54mm 40-pin male header for Raspberry Pi GPIO                |$3.30  |
+|12 |SS12D00G3 Slide Switch   | SS12D00G3 slide switch                             |Small 3-pin slide switch for power control                     |$2.40  |
+|13 |LED                      | 3mm LED assorted                                   |Power indicator LED                                            |$0.99  |
+|14 |330Ω Resistor            | 330 ohm resistor 0805                              |Current-limiting resistor for LED                              |$0.99  |
+|15 |JST Connector Kit        |https://www.aliexpress.us/item/4001235017139.html   |JST connectors for battery, speaker, and power wiring          |$1.98  |
+|16 |Mini HDMI Cable / Adapter|Raspberry Pi Zero mini HDMI to HDMI cable           |Connects Pi Zero 2 W to HDMI display                           |$3.99  |
+|17 |MicroSD Card             |32GB microSD card                                   |Storage for Raspberry Pi OS and game software                  |$6.99  |
+|18 |M2 Screw / Standoff Kit  |M2 screw standoff kit                               |Mounting PCB and case hardware                                 |$6.70  |
+|19 |Custom PCB               |JLCPCB / PCBWay                                     |90mm × 145mm custom carrier PCB                                |$19.74 |
+|   |                         |                                                    |Total                                                          |$109.56|
+
