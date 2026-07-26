@@ -1,6 +1,8 @@
 # Retro-Gaming-Console-with-AI-Feature
 Retro Gaming Console that is normal, But has a button for where If you press it, you can use your voice and explain a game idea, and it will create your game and will let you play. It will also have the basic games like Flappy Bird, Tetris, etc.
 
+https://oshwlab.com/neev.dharod/project_aikugdql
+
 # CAD
 CAD link: https://cad.onshape.com/documents/80234ca0c6dbc53564995cd3/w/1bd3a773922b38dffe61e045/e/d0db60f0b216c6b611b1f2d4?renderMode=0&uiState=6a668a218ce625604a8985ed
 
